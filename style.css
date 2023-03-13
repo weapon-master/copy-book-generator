@@ -1,0 +1,22 @@
+@font-face {
+  font-family: 'Wu';
+  src: url('wu.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Jing';
+  src: url('jing.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Tian';
+  src: url('tian.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Xing';
+  src: url('xing.ttf') format('truetype');
+}
+
+body {
+  font-family: 'Jing';
+  font-size: 36px;
+  line-height: 1.7;
+}
